@@ -18,10 +18,5 @@ Chandra-Selvi at al (2016) defined adipose tissue as a 'loose connective tissue 
 Obesity, assessed by Body Mass Index (BMI), is intimately associated with diabetes and its impact on the development of T2DM has been largely described in large cohort prospective studies (VAN GAAL and SCHEEN, 2015; WILDING, 2014; RUIZ-ALEJOS et al, 2020). In fact, most of the individuals with T2DM are overweight or obese 5. Despite the link between obesity and T2DM not all obese develops diabetes and not all diabetics are obese people. Diabetic lean people probably have a stronger genetic component for T2DM than overweight and obese individuals (WILDING, 2014). Accordingly to Ruiz-Alejos and col (2020) 'there is no specific recommendation about the use of an anthropometric measurement as a marker for T2DM risk prediction besides BMI and waist circumference'. Unfortunately the waist circumference is a measurement not included in the Pima Indians Diabetes Dataset. BMI provides a simple, yet accurate method for indicating nutritional status in adults (as it can be seem in the Table below), and it can be calculated by dividing the individual's weight (in kg) by the square of their height (in metres). bmi WHO-Europe-Nutrition-Body-mass-index-BMITable. Nutritional Status. Source: World Health Organization.
 # OBJECTIVE
 The objective of this project is: Analyse the dataset under the point of view of a Dietitian. Apply machine learning techniques resulting in bridging the gap between datasets and human knowledge.
-# OUTPUT
+# OUTCOME
 ![image](https://github.com/prabhasg03/Python_Projects/assets/121883587/f389e6a4-49fc-4fb9-b494-2e7d397dd52c)
-
-8/8 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.7674 - loss: 0.4725 
-Evaluation Results:
-loss: 0.478192538022995
-compile_metrics: 0.7716535329818726
