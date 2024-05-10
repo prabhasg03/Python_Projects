@@ -29,7 +29,7 @@ Make sure you have the following dependencies installed to run the code:
 
 - Python 3.11
 - Jupyter Notebook
-- IBM Watson SDK
+- IBM Watson Studio
 
 ## Getting Started
 
