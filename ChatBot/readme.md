@@ -21,15 +21,6 @@ https://github.com/prabhasg03/Python_Projects/assets/121883587/c971d3b6-66f4-477
 - **Customization**: I've tailored the chatbot to address specific needs and requirements, ensuring it meets the desired objectives.
 - **Integration**: Seamless integration with WordPress website to deliver consistent support across platforms.
 
-## Repository Structure
-
-```
-- /src
-  - Contains the source code of the chatbot.
-- /docs
-  - Documentation and additional resources.
-```
-
 ## How to Contribute
 
 Contributions are welcome! If you have any ideas, suggestions, or feedback, feel free to [open an issue](https://www.linkedin.com/in/prabhasguda/) or submit a pull request. Let's collaborate and make this project even better together!
