@@ -19,7 +19,7 @@ https://github.com/prabhasg03/Python_Projects/assets/121883587/e4d0586e-d308-42f
 ## Code
 
 To explore the code behind the loan risk assessment model, visit the Jupyter Notebook in this repository:<br>
-[IBM Watson Loan Risk Jupyter Notebook](https://github.com/prabhasg03/Python_Projects/blob/IBM-AI-Fundamentals/Loan%20Risk/IBM%20Watson/Loan%20Risk.ipynb)
+[IBM Watson Loan Risk Jupyter Notebook](https://github.com/prabhasg03/Python_Projects/blob/IBM-AI-Fundamentals/Loan%20Risk/IBM%20Watson/Loan%20Risk.ipynb)<br>
 [Practical Loan Risk Jupyter Notebook](https://github.com/prabhasg03/Python_Projects/blob/IBM-AI-Fundamentals/Loan%20Risk/Loan%20Risk.ipynb)<br>
 
 ## Dependencies
